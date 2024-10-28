@@ -32,4 +32,8 @@ class D{
         void MD2(){
             cout << __func__ << endl;
         }
+
+        void MD4(){
+            cout << __func__ << endl;
+        }
 };
