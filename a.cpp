@@ -35,4 +35,8 @@ class A{
         void MA3(){
             cout << "Alteração da classe A partir do clone" << endl;
         }
+
+        int getSoma(int a, int b){
+            return (a+b);
+        }
 };
