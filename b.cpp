@@ -31,4 +31,8 @@ class B{
         void MB2(){
             cout << __func__ << endl;
         }
+
+        void MB3(){
+            cout << __func__ << endl;
+        }
 };
