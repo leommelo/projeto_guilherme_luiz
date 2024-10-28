@@ -15,4 +15,8 @@ class C{
         void MC2(){
             cout << __func__ << endl;
         }
+
+        void MC3(){
+            cout << __func__ << endl;
+        }
 };
